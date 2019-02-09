@@ -1,0 +1,3 @@
+author = Mashisu
+version = 0.1
+displayName = Mat's Weapons pack
